@@ -1,2 +1,2 @@
 # Algorithm
-Private algorithm study
+종만북 스터디
